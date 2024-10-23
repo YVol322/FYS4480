@@ -10,6 +10,9 @@ This repository contains programs and matrix element data for calculating the gr
 - **HF.py**  
   This program implements an object-oriented HF algorithm for ground-state energy calculation. It reads data from the file `Matrix_elements_table/Matrix_elements.txt`, which contains the necessary matrix elements for the calculations.
 
+- **Matrix_elements.txt**
+  .txt file that contains all Coulomb integrals table needed for the computation.
+
 ## Author
 
 Yevhenii Volkov
