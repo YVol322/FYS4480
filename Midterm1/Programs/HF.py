@@ -136,7 +136,7 @@ class HarteeFock:
             # Update the density matrix and compute the ground-state energy
             rho = self.density_matrix(C.T)  
             self.ground_state_energy(rho)
-            self.energies.append(self.E)  # Store energy at each iteration
+            self.energies.append(self.E)  # Store energy at every iteration
 
 
 

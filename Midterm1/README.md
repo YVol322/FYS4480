@@ -4,6 +4,9 @@ This repository contains programs and matrix element data for calculating the gr
 
 ## Contents
 
+- **classes.py**
+  Helping python program with classes definitions that are used in `HF.py` program.
+
 - **FCI.py**  
   This program implements the FCI algorithm to calculate the ground-state energy. The Hamiltonian matrix for the FCI method is pre-calculated analytically, allowing the program to simply diagonalize the matrices for helium and beryllium atoms and output their ground-state energies.
   
